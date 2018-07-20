@@ -1,0 +1,20 @@
++-----------------------------+-----------------+-------------------+
+| Package                     | Total Downloads | Monthly Downloads |
++-----------------------------+-----------------+-------------------+
+| kohana/auth                 | 73881           | 2782              |
+| kohana/cache                | 139511          | 3226              |
+| kohana/cascading-filesystem | 21              | 0                 |
+| kohana/codebench            | 18033           | 74                |
+| kohana/coding-standards     | 7898            | 321               |
+| kohana/core                 | 194631          | 6021              |
+| kohana/database             | 161991          | 5347              |
+| kohana/doctrine             | 55              | 0                 |
+| kohana/image                | 161172          | 5548              |
+| kohana/koharness            | 5153            | 6                 |
+| kohana/minion               | 81654           | 891               |
+| kohana/orm                  | 39298           | 473               |
+| kohana/unittest             | 33272           | 160               |
+| kohana/userguide            | 18929           | 107               |
++-----------------------------+-----------------+-------------------+
+| SUMMARY                     | 935499          | 24956             |
++-----------------------------+-----------------+-------------------+

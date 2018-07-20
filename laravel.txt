@@ -1,0 +1,36 @@
++-----------------------------+-----------------+-------------------+
+| Package                     | Total Downloads | Monthly Downloads |
++-----------------------------+-----------------+-------------------+
+| laravel/browser-kit-testing | 1043819         | 68053             |
+| laravel/cashier             | 1432375         | 60465             |
+| laravel/cashier-braintree   | 128271          | 6408              |
+| laravel/database            | 16947           | 1059              |
+| laravel/dbfactory           | 194             | 0                 |
+| laravel/dusk                | 1378470         | 106035            |
+| laravel/elixir              | 17326           | 369               |
+| laravel/envoy               | 345255          | 15598             |
+| laravel/form-manager        | 148             | 0                 |
+| laravel/framework           | 43763680        | 1615569           |
+| laravel/gettext             | 132             | 5                 |
+| laravel/homestead           | 1860203         | 70464             |
+| laravel/horizon             | 636103          | 96007             |
+| laravel/installer           | 2203674         | 64603             |
+| laravel/laravel             | 8405599         | 259287            |
+| laravel/legacy-encrypter    | 44352           | 3061              |
+| laravel/liferaft            | 414             | 0                 |
+| laravel/lumen               | 268737          | 8827              |
+| laravel/lumen-framework     | 2533149         | 126747            |
+| laravel/lumen-installer     | 159067          | 4971              |
+| laravel/meta                | 11762           | 308               |
+| laravel/packer              | 1522            | 32                |
+| laravel/passport            | 2481556         | 219096            |
+| laravel/processor           | 56              | 0                 |
+| laravel/scout               | 986368          | 76171             |
+| laravel/simple-route        | 58              | 1                 |
+| laravel/socialite           | 4230734         | 208472            |
+| laravel/spark-installer     | 13810           | 271               |
+| laravel/tinker              | 14543382        | 1168470           |
+| laravel/valet               | 145680          | 5549              |
++-----------------------------+-----------------+-------------------+
+| SUMMARY                     | 86652843        | 4185898           |
++-----------------------------+-----------------+-------------------+

@@ -1,0 +1,51 @@
++--------------------------+-----------------+-------------------+
+| Package                  | Total Downloads | Monthly Downloads |
++--------------------------+-----------------+-------------------+
+| phpixie/amalgama         | 87              | 0                 |
+| phpixie/auth             | 11012           | 297               |
+| phpixie/auth-http        | 10763           | 295               |
+| phpixie/auth-login       | 10819           | 295               |
+| phpixie/auth-orm         | 10772           | 295               |
+| phpixie/auth-processors  | 10723           | 295               |
+| phpixie/auth-social      | 6971            | 295               |
+| phpixie/bundle-framework | 10635           | 289               |
+| phpixie/bundles          | 10651           | 289               |
+| phpixie/cache            | 5660            | 291               |
+| phpixie/cli              | 6585            | 295               |
+| phpixie/config           | 10825           | 295               |
+| phpixie/console          | 6619            | 295               |
+| phpixie/core             | 5627            | 222               |
+| phpixie/database         | 12707           | 287               |
+| phpixie/db               | 2631            | 39                |
+| phpixie/debug            | 11017           | 295               |
+| phpixie/default-bundle   | 10474           | 289               |
+| phpixie/di               | 6421            | 289               |
+| phpixie/email            | 134             | 10                |
+| phpixie/filesafe         | 31              | 1                 |
+| phpixie/filesystem       | 11000           | 295               |
+| phpixie/framework        | 10789           | 295               |
+| phpixie/framework-bundle | 5535            | 274               |
+| phpixie/haml             | 19              | 1                 |
+| phpixie/http             | 12141           | 295               |
+| phpixie/http-processors  | 10735           | 295               |
+| phpixie/illusion         | 9               | 0                 |
+| phpixie/image            | 20483           | 630               |
+| phpixie/migrate          | 6042            | 294               |
+| phpixie/nxeed-i18n       | 27              | 1                 |
+| phpixie/orm              | 13277           | 305               |
+| phpixie/paginate         | 11019           | 294               |
+| phpixie/paginate-orm     | 10759           | 295               |
+| phpixie/processors       | 10784           | 295               |
+| phpixie/project          | 6639            | 69                |
+| phpixie/project-auth     | 401             | 6                 |
+| phpixie/route            | 10865           | 295               |
+| phpixie/security         | 10769           | 295               |
+| phpixie/slice            | 13392           | 298               |
+| phpixie/social           | 7103            | 295               |
+| phpixie/sylph            | 10              | 0                 |
+| phpixie/template         | 10836           | 287               |
+| phpixie/test             | 8751            | 85                |
+| phpixie/validate         | 13872           | 512               |
++--------------------------+-----------------+-------------------+
+| SUMMARY                  | 366421          | 10669             |
++--------------------------+-----------------+-------------------+

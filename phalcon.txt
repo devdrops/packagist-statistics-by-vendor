@@ -1,0 +1,22 @@
++----------------------------+-----------------+-------------------+
+| Package                    | Total Downloads | Monthly Downloads |
++----------------------------+-----------------+-------------------+
+| phalcon/album-o-rama       | 36              | 0                 |
+| phalcon/awesome-phalcon    | 2               | 0                 |
+| phalcon/blog               | 111             | 6                 |
+| phalcon/breadcrumbs        | 6314            | 418               |
+| phalcon/cli-options-parser | 7               | 0                 |
+| phalcon/compose            | 1594            | 90                |
+| phalcon/cphalcon           | 3339            | 371               |
+| phalcon/dd                 | 6323            | 624               |
+| phalcon/devtools           | 531337          | 16235             |
+| phalcon/forum              | 313             | 3                 |
+| phalcon/ide-stubs          | 78907           | 9056              |
+| phalcon/incubator          | 842731          | 27347             |
+| phalcon/logentries         | 49              | 2                 |
+| phalcon/platform           | 48              | 48                |
+| phalcon/pretty-exceptions  | 6502            | 0                 |
+| phalcon/zephir             | 77976           | 1841              |
++----------------------------+-----------------+-------------------+
+| SUMMARY                    | 1555589         | 56041             |
++----------------------------+-----------------+-------------------+

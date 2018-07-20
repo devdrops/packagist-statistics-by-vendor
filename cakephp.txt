@@ -1,0 +1,36 @@
++-----------------------------+-----------------+-------------------+
+| Package                     | Total Downloads | Monthly Downloads |
++-----------------------------+-----------------+-------------------+
+| cakephp/acl                 | 97070           | 3465              |
+| cakephp/app                 | 733811          | 14761             |
+| cakephp/authentication      | 6397            | 758               |
+| cakephp/authorization       | 2749            | 775               |
+| cakephp/bake                | 1455566         | 74442             |
+| cakephp/cache               | 71861           | 18053             |
+| cakephp/cakephp             | 2922804         | 130327            |
+| cakephp/cakephp-codesniffer | 1352321         | 67903             |
+| cakephp/chronos             | 2427139         | 225705            |
+| cakephp/codeception         | 3858            | 97                |
+| cakephp/collection          | 239237          | 19197             |
+| cakephp/core                | 120320          | 23934             |
+| cakephp/database            | 58760           | 17496             |
+| cakephp/datasource          | 62383           | 17639             |
+| cakephp/datasources         | 32972           | 951               |
+| cakephp/debug_kit           | 2489114         | 93515             |
+| cakephp/elastic-search      | 52369           | 2268              |
+| cakephp/event               | 32851           | 1097              |
+| cakephp/filesystem          | 28146           | 1863              |
+| cakephp/form                | 116             | 0                 |
+| cakephp/i18n                | 26928           | 1203              |
+| cakephp/localized           | 137950          | 4576              |
+| cakephp/log                 | 22132           | 742               |
+| cakephp/migrations          | 1585889         | 79498             |
+| cakephp/monolog             | 3578            | 6                 |
+| cakephp/orm                 | 32198           | 1071              |
+| cakephp/plugin-installer    | 1592377         | 80989             |
+| cakephp/upgrade             | 697             | 0                 |
+| cakephp/utility             | 371774          | 28979             |
+| cakephp/validation          | 147057          | 2015              |
++-----------------------------+-----------------+-------------------+
+| SUMMARY                     | 16110424        | 913325            |
++-----------------------------+-----------------+-------------------+

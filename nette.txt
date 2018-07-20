@@ -1,0 +1,37 @@
++-----------------------+-----------------+-------------------+
+| Package               | Total Downloads | Monthly Downloads |
++-----------------------+-----------------+-------------------+
+| nette/addon-installer | 187             | 0                 |
+| nette/application     | 1427752         | 34578             |
+| nette/bootstrap       | 2736324         | 190958            |
+| nette/caching         | 2194356         | 69406             |
+| nette/code-checker    | 77656           | 1213              |
+| nette/coding-standard | 6655            | 431               |
+| nette/command-line    | 91474           | 1569              |
+| nette/component-model | 1430832         | 36854             |
+| nette/database        | 1020347         | 25119             |
+| nette/deprecated      | 675934          | 15625             |
+| nette/di              | 2863765         | 199006            |
+| nette/extras          | 157             | 0                 |
+| nette/finder          | 3059821         | 209845            |
+| nette/forms           | 1175493         | 31245             |
+| nette/http            | 1512236         | 40148             |
+| nette/mail            | 1466757         | 40798             |
+| nette/neon            | 2882729         | 190948            |
+| nette/nette           | 1020094         | 15147             |
+| nette/nette-minified  | 2973            | 0                 |
+| nette/php-generator   | 2888679         | 190747            |
+| nette/reflection      | 1628872         | 41660             |
+| nette/robot-loader    | 2679559         | 194474            |
+| nette/routing         | 8               | 0                 |
+| nette/safe-stream     | 1252315         | 28270             |
+| nette/sandbox         | 50187           | 380               |
+| nette/security        | 1286984         | 30634             |
+| nette/tester          | 826791          | 20898             |
+| nette/tokenizer       | 878241          | 19568             |
+| nette/updater         | 44              | 0                 |
+| nette/utils           | 3546659         | 220121            |
+| nette/web-project     | 31253           | 752               |
++-----------------------+-----------------+-------------------+
+| SUMMARY               | 38715134        | 1850394           |
++-----------------------+-----------------+-------------------+

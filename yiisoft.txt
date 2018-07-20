@@ -1,0 +1,54 @@
++-------------------------------------+-----------------+-------------------+
+| Package                             | Total Downloads | Monthly Downloads |
++-------------------------------------+-----------------+-------------------+
+| yiisoft/app                         | 65              | 55                |
+| yiisoft/cache                       | 12              | 12                |
+| yiisoft/core                        | 14              | 14                |
+| yiisoft/di                          | 43              | 22                |
+| yiisoft/jquery                      | 186479          | 382               |
+| yiisoft/jquery-pjax                 | 157601          | 269               |
+| yiisoft/log                         | 12              | 12                |
+| yiisoft/yii                         | 1460565         | 36435             |
+| yiisoft/yii-console                 | 0               | 0                 |
+| yiisoft/yii-web                     | 12              | 12                |
+| yiisoft/yii2                        | 5066216         | 172335            |
+| yiisoft/yii2-apidoc                 | 167522          | 5521              |
+| yiisoft/yii2-app                    | 50              | 0                 |
+| yiisoft/yii2-app-advanced           | 580006          | 9492              |
+| yiisoft/yii2-app-basic              | 914004          | 16387             |
+| yiisoft/yii2-app-benchmark          | 473             | 0                 |
+| yiisoft/yii2-authclient             | 1024755         | 40161             |
+| yiisoft/yii2-bootstrap              | 4437338         | 157212            |
+| yiisoft/yii2-bootstrap4             | 4434            | 1796              |
+| yiisoft/yii2-captcha                | 397             | 162               |
+| yiisoft/yii2-codeception            | 2250485         | 28714             |
+| yiisoft/yii2-coding-standards       | 115402          | 4022              |
+| yiisoft/yii2-collection             | 6               | 3                 |
+| yiisoft/yii2-composer               | 4644124         | 182495            |
+| yiisoft/yii2-debug                  | 4040765         | 139479            |
+| yiisoft/yii2-dev                    | 17740           | 637               |
+| yiisoft/yii2-drag-drop-interactions | 241             | 9                 |
+| yiisoft/yii2-elasticsearch          | 265560          | 11529             |
+| yiisoft/yii2-faker                  | 3232157         | 111059            |
+| yiisoft/yii2-gii                    | 3757334         | 123480            |
+| yiisoft/yii2-httpclient             | 857827          | 53316             |
+| yiisoft/yii2-imagine                | 760112          | 31833             |
+| yiisoft/yii2-imagine-showbiz        | 15              | 0                 |
+| yiisoft/yii2-jquery                 | 778             | 260               |
+| yiisoft/yii2-jui                    | 1456952         | 52264             |
+| yiisoft/yii2-maskedinput            | 18              | 0                 |
+| yiisoft/yii2-mongodb                | 264393          | 11195             |
+| yiisoft/yii2-mssql                  | 9               | 2                 |
+| yiisoft/yii2-oracle                 | 4               | 0                 |
+| yiisoft/yii2-queue                  | 244228          | 34752             |
+| yiisoft/yii2-redis                  | 1076362         | 56524             |
+| yiisoft/yii2-rest                   | 91              | 24                |
+| yiisoft/yii2-shell                  | 33868           | 3184              |
+| yiisoft/yii2-smarty                 | 46442           | 2096              |
+| yiisoft/yii2-sphinx                 | 160277          | 6987              |
+| yiisoft/yii2-swiftmailer            | 4006783         | 145636            |
+| yiisoft/yii2-tal                    | 371             | 0                 |
+| yiisoft/yii2-twig                   | 353491          | 11791             |
++-------------------------------------+-----------------+-------------------+
+| SUMMARY                             | 41585833        | 1451570           |
++-------------------------------------+-----------------+-------------------+

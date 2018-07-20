@@ -1,0 +1,45 @@
++------------------------+-----------------+-------------------+
+| Package                | Total Downloads | Monthly Downloads |
++------------------------+-----------------+-------------------+
+| aura/accept            | 37074           | 1936              |
+| aura/asset-bundle      | 172             | 0                 |
+| aura/auth              | 16234           | 583               |
+| aura/autoload          | 41192           | 1167              |
+| aura/blog              | 56              | 0                 |
+| aura/cli               | 165610          | 5548              |
+| aura/cli-kernel        | 27315           | 443               |
+| aura/cli-project       | 436             | 4                 |
+| aura/di                | 277530          | 6113              |
+| aura/dispatcher        | 39014           | 562               |
+| aura/filter            | 140173          | 3708              |
+| aura/filter-interface  | 46              | 1                 |
+| aura/framework         | 7315            | 29                |
+| aura/framework-demo    | 956             | 4                 |
+| aura/framework-project | 1154            | 5                 |
+| aura/html              | 64800           | 2207              |
+| aura/http              | 23168           | 158               |
+| aura/includer          | 1872            | 31                |
+| aura/input             | 40719           | 1127              |
+| aura/installer-default | 1341592         | 29016             |
+| aura/installer-system  | 6626            | 29                |
+| aura/intl              | 1948435         | 102570            |
+| aura/marshal           | 34610           | 989               |
+| aura/payload           | 45032           | 3230              |
+| aura/payload-interface | 54763           | 3479              |
+| aura/project-kernel    | 38041           | 466               |
+| aura/router            | 235531          | 10933             |
+| aura/session           | 171791          | 5720              |
+| aura/signal            | 32193           | 299               |
+| aura/sql               | 331527          | 10377             |
+| aura/sqlmapper-bundle  | 4996            | 0                 |
+| aura/sqlquery          | 329012          | 12356             |
+| aura/sqlschema         | 23465           | 825               |
+| aura/system            | 1078            | 4                 |
+| aura/uri               | 8781            | 131               |
+| aura/view              | 48729           | 692               |
+| aura/web               | 87236           | 1915              |
+| aura/web-kernel        | 18902           | 106               |
+| aura/web-project       | 1404            | 2                 |
++------------------------+-----------------+-------------------+
+| SUMMARY                | 5648580         | 206765            |
++------------------------+-----------------+-------------------+
