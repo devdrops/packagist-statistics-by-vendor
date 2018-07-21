@@ -1,0 +1,20 @@
++---------------------------+-----------------+-------------------+
+| Package                   | Total Downloads | Monthly Downloads |
++---------------------------+-----------------+-------------------+
+| respect/assertion         | 1               | 1                 |
+| respect/config            | 6784            | 54                |
+| respect/data              | 5959            | 57                |
+| respect/loader            | 36              | 0                 |
+| respect/relational        | 5444            | 58                |
+| respect/rest              | 43835           | 577               |
+| respect/rest-fut          | 80              | 0                 |
+| respect/stringifier       | 3327            | 615               |
+| respect/structural        | 15              | 0                 |
+| respect/template          | 111             | 0                 |
+| respect/test              | 604             | 1                 |
+| respect/validation        | 2081059         | 94046             |
+| respect/validation-bundle | 38              | 0                 |
+| respect/validation-locale | 762             | 17                |
++---------------------------+-----------------+-------------------+
+| SUMMARY                   | 2148055         | 95426             |
++---------------------------+-----------------+-------------------+
